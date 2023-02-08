@@ -1,5 +1,3 @@
-  application:
-    name: ServiceOne
 eureka:
   instance:
     hostname: localhost
